@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "npm: node package manager npm init",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan19172000/209231102321023-03.git"
+  },
+  "author": "rohan kinnal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan19172000/209231102321023-03/issues"
+  },
+  "homepage": "https://github.com/rohan19172000/209231102321023-03#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
